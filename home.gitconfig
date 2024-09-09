@@ -1,0 +1,14 @@
+[user]
+    name = Ashmi Pednekar
+    email = ashmipednekar@gmail.com
+[http]
+    sslVerify = false
+    proxy = 
+[https]
+    sslverify = false
+[push]
+    default = simple
+[credential]
+    helper = cache --timeout=360000000
+[core]
+    autocrlf = false
